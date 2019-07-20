@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Fri Jul 19 2019 23:46:26 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* appsettings.json
+
+
+Created files:
+* .autogit/autogit.json
+
+
+Deleted files:
+
+
+Renamed files:
